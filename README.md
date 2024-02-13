@@ -3,6 +3,7 @@
 <br>
 
 # Links
+- 🔗 [Click here for dm delete code](https://raw.githubusercontent.com/Sowwyz/dm-delete/main/DeleteDiscordMessages.js)
 - 🔗 [Youtube Channel](https://www.youtube.com/channel/UCqMpKDgcibYYEMpsYpVNF-A)
 - 🔗 [Support Discord](https://discord.com/users/1157912994051792898)
 
