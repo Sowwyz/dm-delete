@@ -11,7 +11,7 @@
 // @license         MIT
 // @namespace       https://github.com/Sowwyz/dm-delete
 // @icon            https://github.com/Sowwyz/dm-delete/blob/main/icon128.png
-// @downloadURL     https://raw.githubusercontent.com/victornpb/deleteDiscordMessages/master/deleteDiscordMessages.user.js
+// @downloadURL     https://raw.githubusercontent.com/Sowwyz/dm-delete/main/DeleteDiscordMessages.js
 // @contributionURL https://www.buymeacoffee.com/
 // @grant           none
 // ==/UserScript==
@@ -156,9 +156,9 @@
                 d="M5 6.99902V18.999C5 20.101 5.897 20.999 7 20.999H17C18.103 20.999 19 20.101 19 18.999V6.99902H5ZM11 17H9V11H11V17ZM15 17H13V11H15V17Z">
             </path>
         </svg>
-        <h3>Undiscord</h3>
+        <h3>DM-DELETE</h3>
         <div class="vert-divider"></div>
-        <span> Bulk delete messages</span>
+        <span> Sowwyz</span>
         <div class="spacer"></div>
         <div id="hide" class="icon" aria-label="Close" role="button" tabindex="0">
             <svg aria-hidden="false" width="24" height="24" viewBox="0 0 24 24">
@@ -431,7 +431,7 @@
 	/**
 	 * Delete all messages in a Discord channel or DM
 	 * @author Victornpb <https://www.github.com/victornpb>
-	 * @see https://github.com/victornpb/undiscord
+	 * @see https://github.com/Sowwyz/dm-delete
 	 */
 	class UndiscordCore {
 
@@ -1217,8 +1217,8 @@ body.undiscord-pick-message.after [id^="message-content-"]:hover::after {
 	// -------------------------- User interface ------------------------------- //
 
 	// links
-	const HOME = 'https://github.com/victornpb/undiscord';
-	const WIKI = 'https://github.com/victornpb/undiscord/wiki';
+	const HOME = 'https://github.com/Sowwyz/dm-delete';
+	const WIKI = 'https://github.com/Sowwyz/dm-delete/wiki';
 
 	const undiscordCore = new UndiscordCore();
 	messagePicker.init();
