@@ -364,8 +364,8 @@
             <hr>
             <div></div>
             <div class="info">
-                Undiscord {{VERSION}}
-                <br> victornpb
+                DM-DELETE {{VERSION}}
+                <br> Sowwyz
             </div>
         </div>
         <div class="main col">
