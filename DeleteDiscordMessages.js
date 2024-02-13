@@ -4,8 +4,17 @@
 // @version         5.2.3
 // @author          Sowwyz
 // @homepageURL     https://github.com/Sowwyz
-// @supportURL      https://github.com/victornpb/undiscord/discussions
-
+// @supportURL      https://github.com/Sowwyz
+// @match           https://*.discord.com/app
+// @match           https://*.discord.com/channels/*
+// @match           https://*.discord.com/login
+// @license         MIT
+// @namespace       https://github.com/Sowwyz/dm-delete
+// @icon            https://github.com/Sowwyz/dm-delete/blob/main/icon128.png
+// @downloadURL     https://raw.githubusercontent.com/victornpb/deleteDiscordMessages/master/deleteDiscordMessages.user.js
+// @contributionURL https://www.buymeacoffee.com/
+// @grant           none
+// ==/UserScript==
 (function () {
 	'use strict';
 
